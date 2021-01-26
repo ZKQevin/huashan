@@ -5,5 +5,6 @@ public class Hello {
 		System.out.println("Hello 哈哈哈");
 
 		System.out.println("Hello芜湖");
+		System.out.println("你是神魔恋爱");
 	}
 }
